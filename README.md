@@ -1,4 +1,4 @@
-# infinity-x-releases
+
 # Instructions To Flash Custom Rom
 - Download the ROM package along with boot, dtbo, vendor_boot (links mentioned in post) and firmware as specified on post if not included in rom.
 - Put downloaded files in a folder (your platform tools folder preferred)
